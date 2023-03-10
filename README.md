@@ -4,7 +4,7 @@ This repository contains the work for the Virtual Reality project
 
 #### Author: Claudio Del Gaizo (S4696649), Davide Bruzzo (S4649449), Daniele Parisi ()
 
-#### mail: cdg9914@gmail.com mailto:cdg9914@gmail.com, mailto:davide.brzo@gmail.com
+#### mail: cdg9914@gmail.com mailto:cdg9914@gmail.com, (mailto:davide.brzo@gmail.com)
 
 Table of contents
 ----------------------
