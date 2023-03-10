@@ -4,8 +4,7 @@ This repository contains the work for the Virtual Reality project
 
 #### Author: Claudio Del Gaizo (S4696649), Davide Bruzzo (S4649449), Daniele Parisi ()
 
-#### mail: cdg9914@gmail.com mailto:cdg9914@gmail.com?subject=[GitHub]%20Source%20Han%20Sans), mailto:davide.brzo@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-
+#### mail: cdg9914@gmail.com mailto:cdg9914@gmail.com, mailto:davide.brzo@gmail.com
 
 Table of contents
 ----------------------
