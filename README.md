@@ -23,7 +23,7 @@ The goal of this assignment is to integrate the architecture developed in the fi
 * Starts the patrolling algorithm by relying on autonomous navigation strategies (mapping/planning) and on the information collected and stored in the ontology during the previous step.
 * When a room is reached, perform a complete scan of the room (by rotating the base or the camera).
 
-The Map
+###The Map
 ====================================================================
 The 3D environment representation of the 2D map of former assignment, which has been used for this project is shown here below:
 
