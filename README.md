@@ -1,7 +1,6 @@
 # Virtual Reality project - Group 3b_Meteo
-Virtual Reality project repository
 
-This repository contains the work for the second assignment of Experimental Robotics Laboratory
+This repository contains the work for the Virtual Reality project 
 
 #### Author: Claudio Del Gaizo, S4696649
 
