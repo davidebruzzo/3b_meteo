@@ -17,11 +17,8 @@ Table of contents
 
 ## Introduction
 
-The goal of this assignment is to integrate the architecture developed in the first assignment with a robotic simulation., in particular we have to Add a robot to a simulation environment and Integrate (if needed, modify it) the architecture that we have developed in the first assignment to the given scenario in such a way that:
-* The robot is spawned in the initial position x = -6.0, y = 11.0
-* Builds the "semantic" map of the environment by detecting, without moving the base of the robot, all seven markers that are present around it, by calling the provided service node.
-* Starts the patrolling algorithm by relying on autonomous navigation strategies (mapping/planning) and on the information collected and stored in the ontology during the previous step.
-* When a room is reached, perform a complete scan of the room (by rotating the base or the camera).
+This readme contains the description of the main components of the project. The aim of the simulation is to replicate a police patrolling drone operating in narrow streets, in particular Genoa Historical Center. 
+Down below you can find specific and detailed description of the code we developed to obtain the behaviour of the patrolling drone, randomic crowd walking and suspicious criminal behaviour, as well as few lines on the environment we built. 
 
 ### The Map
 ====================================================================
