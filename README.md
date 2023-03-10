@@ -10,12 +10,10 @@ Table of contents
 ----------------------
 
 * [Introduction](#introduction)
-* [Dependencies and Setup](#dependencies-and-setup)
-* [Project structure](#project-structure)
-* [Software Components and code description](#software-components-and-code-description)
-* [Behaviuor Presentation](#behaviuor-presentation)
-* [Limitations and Possible Improvements](#limitations-and-possible-improvements)
-
+* [Environment](#environment)
+* [Drone](#drone)
+* [Crowd](#crowd)
+* [Criminal person](#criminal-person)
 
 ## Introduction
 
@@ -34,5 +32,16 @@ The 3D environment representation of the 2D map of former assignment, which has 
 <p>
 
 	
-The Robot
+## Environment
+====================================================================
+	
+## Drone
+====================================================================
+	
+	
+## Crowd
+====================================================================	
+	
+
+## Criminal Person
 ====================================================================
