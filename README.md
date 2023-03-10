@@ -36,6 +36,17 @@ Here the list of the folder that contain parts of the environment:
 * [other_building](https://unigeit.sharepoint.com/:f:/r/sites/VRxRobot2223-Group3BMeteo/Documenti%20condivisi/Group%203BMeteo/MyProject/Content/3b_meteo/main_Building?csf=1&web=1&e=R9nZCM): All the other buildings like shops, vending machine place etc. are contained here.
 
 ## Drone
+First of all we took the model of a drone from internet and put all the related files in the "[Drone](https://unigeit.sharepoint.com/:f:/r/sites/VRxRobot2223-Group3BMeteo/Documenti%20condivisi/Group%203BMeteo/MyProject/Content/3b_meteo/Drone?csf=1&web=1&e=MM5g04)" folder; moreover we created our own [animations](https://unigeit.sharepoint.com/:f:/r/sites/VRxRobot2223-Group3BMeteo/Documenti%20condivisi/Group%203BMeteo/MyProject/Content/3b_meteo/Drone/Animations?csf=1&web=1&e=zpTkty) to make it move in a more realistic way, that is by moving the propellers and slightly bending tha chassis.
+
+Our Drone has 3 main components that describe its behaviour: first it moves along the map through a pre-defined patrolling path, then during such motion it scans the environment through a camera to detect potential dangerous situations; in the end when a criminal is detected, the drone keeps track of such character maintaining it within its own field of view and alerting other citizens. The code that implements these different behaviours is all contained in the Blueprint of the Drone ([Drone_BP](https://unigeit.sharepoint.com/:u:/r/sites/VRxRobot2223-Group3BMeteo/Documenti%20condivisi/Group%203BMeteo/MyProject/Content/3b_meteo/Drone/Drone_BP.uasset?csf=1&web=1&e=8zeaxI))
+
+### 1) Patrolling path
+For moving the drone we -----usato frecce per creare path predef da seguire....spiega codice :funzione usata (quale e perchè) e come abbiamo ottenuto movimento smooth tramite settare il delay e parametri come alpha
+
+### 2) Environment Perception
+per detectare pericoli abbiamo usato AI perception component settando sight come senso chiave...ogni volta che un nuovo cristiano viene detectato viene tentato un cast al Bluepirnt del delinquente..in questo modo quindi la detection è specifica di quel cristiano e non effettua un reale image recognitio/processing....spiega codice 
+
+### 3) Character Chasing
 
 	
 ## Crowd
