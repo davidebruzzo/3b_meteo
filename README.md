@@ -17,7 +17,8 @@ Table of contents
 
 ## Introduction
 
-This readme contains the description of the main components of the project. The aim of the simulation is to replicate a police patrolling drone operating in narrow streets, in particular Genoa Historical Center. 
+This readme contains the description of the main components of the project.
+The aim of the simulation is to replicate a police patrolling drone operating in narrow streets, in particular Genoa Historical Center. 
 Down below you can find specific and detailed description of the code we developed to obtain the behaviour of the patrolling drone, randomic crowd walking and suspicious criminal behaviour, as well as few lines on the environment we built. 
 
 ### The Map
