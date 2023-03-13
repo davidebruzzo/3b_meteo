@@ -13,7 +13,7 @@ Table of contents
 * [Environment](#environment)
 * [Drone](#drone)
 * [Crowd](#crowd)
-* [Criminal person](#criminal-person)
+* [Criminal character](#criminal-character)
 
 ## Introduction
 
@@ -106,7 +106,14 @@ They can be found near the fountain, in some angles of the narrow streets and al
 <p>
 
 
-## Criminal Person
+## Criminal character
+Fot Implementing the [Criminal](https://unigeit.sharepoint.com/:u:/r/sites/VRxRobot2223-Group3BMeteo/Documenti%20condivisi/Group%203BMeteo/MyProject/Content/3b_meteo/characters/My_AI_PATH.uasset?csf=1&web=1&e=hIKMzK), we used a basic UE5 manequinn to which we attached a [gun](https://unigeit.sharepoint.com/:f:/r/sites/VRxRobot2223-Group3BMeteo/Documenti%20condivisi/Group%203BMeteo/MyProject/Content/3b_meteo/guns?csf=1&web=1&e=GTiwhi) in order to make it seem "dangerous",and for his behaviour we used an identical approach to the one described in the previous section for the ```Crowd```, so that we have the character randomly moving within the bounds of a specific ```Zone Graph```, and so that if desired, we can spawn multiple criminals simpy by increasing the settings of the related ```massSpawner```.
+
+<p><p align="center">
+<img src="https://github.com/davidebruzzo/3b_meteo/blob/main/images/BadGuy.png?raw=true" width="500" />
+<p>
+
+Additionally, for this character, we used two different animations: a custom one to make him walk while poiting the gun in a "realistic way", and a second one to make him run away from the drone. In order to swap between these two accordingly to the situation we created an AnimationBlueprint ([ABP_StateMachine](https://unigeit.sharepoint.com/:u:/r/sites/VRxRobot2223-Group3BMeteo/Documenti%20condivisi/Group%203BMeteo/MyProject/Content/3b_meteo/characters/ABP_StateMachine.uasset?csf=1&web=1&e=SIiMcD))  that implements a State Machine; in particular it makes use of a  ```Blend Space 1D ```
 
 ### The Map
 ====================================================================
