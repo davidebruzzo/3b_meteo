@@ -85,7 +85,7 @@ For the cameras as said we used 2 ```SceneCaptureComponent``` that respectively 
 For creating the crowd walking into the streets, we started from different blueprints to create different types of people. 
 
 They are built on this [```Metahuman```](https://www.unrealengine.com/marketplace/en-US/product/city-sample-crowds) package and they have different height, skin, face, gender and also accessory. 
-We thought about static characters also, which are, for example, people talking on the phone we provided with a specific animation. For each different character walking in the streets, we developed different **data asset** files and a **state tree** file.
+We thought about static characters also, which are, for example, people talking on the phone we provided with a specific animation. For each different character walking in the streets, we developed different **data asset** files and a **state tree** file. You can find a reference to them, together with the blueprints in [this folder](https://unigeit.sharepoint.com/:f:/r/sites/VRxRobot2223-Group3BMeteo/Documenti%20condivisi/Group%203BMeteo/MyProject/Content/CitySampleCrowd/Blueprints?csf=1&web=1&e=x8VL6i).
 
 These files represent the behaviour of the crowd, and we set them in order to spawn randomly in a given area and walking onto a pre-defined navigation path.
 
