@@ -95,7 +95,7 @@ To accomplish this goal we draw the navigation lines using ```Zone Shape``` comp
 The full path in which they can move is around the buildings, in most of the narrow streets, and around the pub. 
 They can also move around the square and the fountain.
 
-These character have also a personalized style of walking to make them more realistic.
+These characters have also a personalized style of walking to make them more realistic.
 
 Some of the static characters are distributed on the map, and their position is fixed from the beginnig since we costrained it from code. 
 They can be found near the fountain, in some angles of the narrow streets and also into the H24 automatic vending store.
