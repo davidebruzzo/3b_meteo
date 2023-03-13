@@ -71,6 +71,18 @@ For the cameras as said we used 2 ```SceneCaptureComponent``` that respectively 
 
 ## Crowd
 
+For creating the crowd walking into the streets, we started from different blueprints to create different types of people. They are built on the ```metahuman``` package and they have different height, skin, face, gender and also accessory. We thought about static characters also, which are for example people talking on the phone we provided with a specific animation. For the different characters walking in the streets, we developed different **data asset** files and a **state tree** file.
+
+These files represent the behaviour of the crowd, and we set them in order to spawn randomly in a given area and walking onto a pre-defined navigation path.
+
+To accomplish this goal we draw the navigation lines using ```zone shape``` components which are linked together to create the ```Zone Graph``` which is the actual possible route people can walk in. 
+The full path in which they can move is around the buildings, in most of the narrow streets, and around the pub. 
+They can also move around the square and the fountain.
+These character have also a personalized style of walking to make them more realistic.
+
+Some of the static characters are distributed on the map, and their position is fixed from the beginnig since we costrained it from code. 
+They can be found near the fountain, in some angles of the narrow streets and also into the H24 automatic vending store.
+
 
 ## Criminal Person
 
