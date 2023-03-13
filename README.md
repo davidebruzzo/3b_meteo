@@ -45,7 +45,7 @@ Here the list of the folder that contain parts of the environment:
 * [vending_machines](https://unigeit.sharepoint.com/:f:/r/sites/VRxRobot2223-Group3BMeteo/Documenti%20condivisi/Group%203BMeteo/MyProject/Content/3b_meteo/vending_machines?csf=1&web=1&e=abxkfy): 3D representation of vending machine we put in a little store in the middle of the narrow streets, this building represents a H24 vending store.
 
 <p><p align="center">
-<img src="https://github.com/davidebruzzo/3b_meteo/blob/main/images/mappa_basso2.png" width="500" />
+<img src="https://github.com/davidebruzzo/3b_meteo/blob/main/images/mappa_basso2.png" width="600" />
 <p>
 
 Then we have the 3D model of the drone that we will explain better in the next section.
