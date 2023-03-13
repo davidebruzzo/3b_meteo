@@ -102,7 +102,7 @@ They can be found near the fountain, in some angles of the narrow streets and al
 
 
 <p><p align="center">
-<img src="https://github.com/davidebruzzo/3b_meteo/blob/main/images/Crowd.png?raw=true" width="500" />
+<img src="https://github.com/davidebruzzo/3b_meteo/blob/main/images/Crowd.png?raw=true" width="750" />
 <p>
 
 
