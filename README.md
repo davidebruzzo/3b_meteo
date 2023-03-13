@@ -78,7 +78,7 @@ We thought about static characters also, which are, for example, people talking 
 
 These files represent the behaviour of the crowd, and we set them in order to spawn randomly in a given area and walking onto a pre-defined navigation path.
 
-To accomplish this goal we draw the navigation lines using ```zone shape``` components which are linked together to create the ```Zone Graph``` which is the actual possible route people can walk in. 
+To accomplish this goal we draw the navigation lines using ```Zone Shape``` components which are linked together to create the ```Zone Graph``` which is the actual possible route people can walk in. 
 
 The full path in which they can move is around the buildings, in most of the narrow streets, and around the pub. 
 They can also move around the square and the fountain.
