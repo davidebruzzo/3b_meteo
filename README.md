@@ -32,6 +32,7 @@ To recreate the narrow streets typical of Genoa Center we used different 3D mode
 <img src="https://github.com/davidebruzzo/3b_meteo/blob/main/images/Mappa_Alto.png" width="500" />
 <p>
 
+
 Here the list of the folder that contain parts of the environment:
 * [bench_AND_fence](https://unigeit.sharepoint.com/:f:/r/sites/VRxRobot2223-Group3BMeteo/Documenti%20condivisi/Group%203BMeteo/MyProject/Content/3b_meteo/bench_AND_fence?csf=1&web=1&e=EFo7UT): Model of the bench and fence that are used into playground. The fence in particular is placed also along the path for the church.
 * [fountain](https://unigeit.sharepoint.com/:f:/r/sites/VRxRobot2223-Group3BMeteo/Documenti%20condivisi/Group%203BMeteo/MyProject/Content/3b_meteo/fountain?csf=1&web=1&e=u6gfKg): Model of the fountain placed in the middle of the square.
@@ -98,6 +99,11 @@ These character have also a personalized style of walking to make them more real
 
 Some of the static characters are distributed on the map, and their position is fixed from the beginnig since we costrained it from code. 
 They can be found near the fountain, in some angles of the narrow streets and also into the H24 automatic vending store.
+
+
+<p><p align="center">
+<img src="https://github.com/davidebruzzo/3b_meteo/blob/main/images/Crowd.png?raw=true" width="500" />
+<p>
 
 
 ## Criminal Person
