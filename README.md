@@ -26,7 +26,12 @@ Down below you can find specific and detailed description of the code we develop
 	
 ## Environment
 
-To recreate the narrow streets typical of Genoa Center we used different 3d models for buildings, pubs, church and the floor, using predefined assets or creating custom ones on our own. The first map that is showed when you launch the simulation is built on the combination of these 3d assets.
+To recreate the narrow streets typical of Genoa Center we used different 3D models for buildings, pubs, church and the floor, using predefined assets or creating custom ones on our own. The first map that is showed when you launch the simulation is built on the combination of these 3D assets.
+
+<p><p align="center">
+<img src="https://github.com/davidebruzzo/3b_meteo/blob/main/images/Mappa_Alto.png" width="500" />
+<p>
+
 Here the list of the folder that contain parts of the environment:
 * [bench_AND_fence](https://unigeit.sharepoint.com/:f:/r/sites/VRxRobot2223-Group3BMeteo/Documenti%20condivisi/Group%203BMeteo/MyProject/Content/3b_meteo/bench_AND_fence?csf=1&web=1&e=EFo7UT): Model of the bench and fence that are used into playground. The fence in particular is placed also along the path for the church.
 * [fountain](https://unigeit.sharepoint.com/:f:/r/sites/VRxRobot2223-Group3BMeteo/Documenti%20condivisi/Group%203BMeteo/MyProject/Content/3b_meteo/fountain?csf=1&web=1&e=u6gfKg): Model of the fountain placed in the middle of the square.
@@ -38,6 +43,10 @@ Here the list of the folder that contain parts of the environment:
 * [trashBin](https://unigeit.sharepoint.com/:f:/r/sites/VRxRobot2223-Group3BMeteo/Documenti%20condivisi/Group%203BMeteo/MyProject/Content/3b_meteo/trashBin?csf=1&web=1&e=JtJ3lG): Models of trash bin we edited with our colors in order to simulate waste sorting.
 * [trees](https://unigeit.sharepoint.com/:f:/r/sites/VRxRobot2223-Group3BMeteo/Documenti%20condivisi/Group%203BMeteo/MyProject/Content/3b_meteo/trees?csf=1&web=1&e=CbgtFI): tree models we put in the playground.
 * [vending_machines](https://unigeit.sharepoint.com/:f:/r/sites/VRxRobot2223-Group3BMeteo/Documenti%20condivisi/Group%203BMeteo/MyProject/Content/3b_meteo/vending_machines?csf=1&web=1&e=abxkfy): 3D representation of vending machine we put in a little store in the middle of the narrow streets, this building represents a H24 vending store.
+
+<p><p align="center">
+<img src="https://github.com/davidebruzzo/3b_meteo/blob/main/images/mappa_basso2.png" width="500" />
+<p>
 
 Then we have the 3D model of the drone that we will explain better in the next section.
 
